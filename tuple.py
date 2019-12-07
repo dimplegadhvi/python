@@ -1,0 +1,9 @@
+#tuple
+a=('joy','hi',34,'damn')
+b=('jim','hello',56,1234)
+print(a)
+print(a[0])
+print(b)
+print(a[1:2])
+print(b*3)
+print(a+b)
